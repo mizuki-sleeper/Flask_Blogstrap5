@@ -1,4 +1,4 @@
-# flask_bootstrap
+# Flask_Blogstrap5
 
 Flask と Bootstra5 の練習でつくりました。
 
