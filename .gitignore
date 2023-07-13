@@ -1,0 +1,4 @@
+.gitignore
+venv/
+init_db.py
+my_blog/__pycache__/
