@@ -87,7 +87,7 @@ $ pip install -r requirements.txt
 # データベースを初期化（初回のみ）
 $ python init_db.py
 
-# 開発サーバーを起動(localhost:3000)
+# 開発サーバーを起動(localhost:5000)
 $ python app.py
 
 ```
