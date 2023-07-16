@@ -1,5 +1,4 @@
 venv/
-init_db.py
 my_blog/__pycache__/
 my_blog/error_pages/__pycache__/
 my_blog/main/__pycache__/
